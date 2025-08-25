@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Resume Maker",
+  "description": "An AI-powered application that helps you craft a professional resume tailored to a specific job description. Simply fill in your details, paste the job description, and let the AI generate a polished resume for you.",
+  "requestFramePermissions": []
+}
